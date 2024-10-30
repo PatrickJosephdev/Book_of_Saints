@@ -3,7 +3,7 @@
     "name": "Saint Peter the Apostle",
     "story": " Saint Peter is a good person",
     "videoUrl": "https://www.youtube.com/watch?v=nMY46Htskqo"
-    "Date": "29-10"
+    "celebrationDate": "29-10"
   },
 
 
@@ -11,7 +11,7 @@
     "name": "Saint Francis",
     "story": "Saint Francis was known for his love of animals and nature.",
     "videoUrl": "https://www.youtube.com/watch?v=example"
-    "Date": "20-10"
+    "celebrationDate": "20-10"
   },
 
 
@@ -19,12 +19,12 @@
     "name": "Saint Therese",
     "story": "Saint Therese is known for her 'little way' of spiritual childhood.",
     "videoUrl": "https://www.youtube.com/watch?v=example2"
-    "Date": "19-10"
+    "celebrationDate": "19-10"
   },
   {
     "name": "Saint Therese",
     "story": "Saint Therese is known for her 'little way' of spiritual childhood.",
     "videoUrl": "https://www.youtube.com/watch?v=example2"
-    "Date": "16-09"
+    "celebrationDate": "16-09"
   }
 ]
