@@ -4,7 +4,7 @@
     "story": " Saint Peter is a good person",
     "videoUrl": "https://www.youtube.com/watch?v=nMY46Htskqo",
     "celebrationDate": "29-10",
-    "imageUrl": " ".
+    "imageUrl": " ",
   },
 
 
@@ -13,7 +13,7 @@
     "story": "Saint Francis was known for his love of animals and nature.",
     "videoUrl": "https://www.youtube.com/watch?v=example",
     "celebrationDate": "20-10",
-    "imageUrl": " ".
+    "imageUrl": " ",
   },
 
 
@@ -22,13 +22,13 @@
     "story": "Saint Therese is known for her 'little way' of spiritual childhood.",
     "videoUrl": "https://www.youtube.com/watch?v=example2",
     "celebrationDate": "19-10",
-    "imageUrl": " ".
+    "imageUrl": " ",
   },
   {
     "name": "Saint Therese",
     "story": "Saint Therese is known for her 'little way' of spiritual childhood.",
     "videoUrl": "https://www.youtube.com/watch?v=example2",
     "celebrationDate": "16-09",
-    "imageUrl": " ".
+    "imageUrl": " ",
   }
 ]
