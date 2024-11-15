@@ -3,7 +3,7 @@
     "name": "Saint Peter the Apostle",
     "story": " Saint Peter is a good person",
     "videoUrl": "https://www.youtube.com/watch?v=nMY46Htskqo",
-    "celebrationDate": "16-11",
+    "celebrationDate": "2024-11-16",
     "imageUrl": "https://i.ytimg.com/vi/QUKn_D4i7f8/maxresdefault.jpg" },
 
 
@@ -11,7 +11,7 @@
     "name": "Saint Francis of Asissi",
     "story": "Saint Francis was known for his love of animals and nature.",
     "videoUrl": "https://www.youtube.com/watch?v=8r2rQjDqmn0",
-    "celebrationDate": "15-11",
+    "celebrationDate": "2024-11-16",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm7RWfvRiED-bi7foJdi7d_akyp3cuRyNzQ&s"
   },
 
@@ -20,14 +20,14 @@
     "name": "Saint Therese of lisieux",
     "story": "Saint Therese is known for her 'little way' of spiritual childhood.",
     "videoUrl": "https://www.youtube.com/watch?v=U2gbX7Ln8xQ",
-    "celebrationDate": "19-10",
+    "celebrationDate": "2024-11-16",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywtGcHFBa014_6eqt1BL_JgjjE5u0taVYBQ&s" },
   
   {
     "name": "Saint Anthony of Padua",
     "story": "Saint Therese is known for her 'little way' of spiritual childhood.",
     "videoUrl": "https://www.youtube.com/watch?v=w1oqt0U2KxU",
-    "celebrationDate": "16-09",
+    "celebrationDate": "2024-11-15",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXWHR9PRYHT9TL7dz2av84Y_fxWH7Y0ZwwloPlhLeXf1psz09_y9RkoOi3a0kMLrASPME&usqp=CAU" 
   },
 
@@ -42,14 +42,22 @@
     "name": "Saint John Bosco",
     "story": "Saint Francis was known for his love of animals and nature.",
     "videoUrl": "https://www.youtube.com/watch?v=MoIigdSx2oU",
-    "celebrationDate": "20-10",
+    "celebrationDate": "2024-11-15",
     "imageUrl": "https://donboscokamuli.com/wp-content/uploads/2023/10/Don-Bosco-SAINT-FATHER-TEACHER-FRIEND-sm.png" },
 
   {
     "name": "Saint Francis of Asissi",
     "story": "Saint Francis was known for his love of animals and nature.",
-    "videoUrl": "https://www.youtube.com/watch?v=example",
-    "celebrationDate": "20-10",
+    "videoUrl": "https://www.youtube.com/watch?v=MoIigdSx2oU",
+    "celebrationDate": "2024-11-16",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm7RWfvRiED-bi7foJdi7d_akyp3cuRyNzQ&s"
+  },
+
+  {
+    "name": "Saint Francis of Asissi",
+    "story": "Saint Francis was known for his love of animals and nature.",
+    "videoUrl": "https://www.youtube.com/watch?v=MoIigdSx2oU",
+    "celebrationDate": "2024-11-16",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm7RWfvRiED-bi7foJdi7d_akyp3cuRyNzQ&s"
   },
 
@@ -57,23 +65,15 @@
     "name": "Saint Francis of Asissi",
     "story": "Saint Francis was known for his love of animals and nature.",
     "videoUrl": "https://www.youtube.com/watch?v=example",
-    "celebrationDate": "20-10",
+    "celebrationDate": "2024-11-15",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm7RWfvRiED-bi7foJdi7d_akyp3cuRyNzQ&s"
   },
 
   {
     "name": "Saint Francis of Asissi",
     "story": "Saint Francis was known for his love of animals and nature.",
-    "videoUrl": "https://www.youtube.com/watch?v=example",
-    "celebrationDate": "20-10",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm7RWfvRiED-bi7foJdi7d_akyp3cuRyNzQ&s"
-  },
-
-  {
-    "name": "Saint Francis of Asissi",
-    "story": "Saint Francis was known for his love of animals and nature.",
-    "videoUrl": "https://www.youtube.com/watch?v=example",
-    "celebrationDate": "20-10",
+    "videoUrl": "https://www.youtube.com/watch?v=MoIigdSx2oU",
+    "celebrationDate": "2024-11-16",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm7RWfvRiED-bi7foJdi7d_akyp3cuRyNzQ&s"
   }
 ]
