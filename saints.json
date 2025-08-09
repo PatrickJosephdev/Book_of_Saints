@@ -2514,11 +2514,13 @@
     },
     {
         "name": "Saint Eligius",
-        "story": "Bishop of Noyon, known as a patron saint of goldsmiths and other metalworkers.",
-        "videoUrl": "",
+        "story": "Saint Eligius (588–660), also known as Eloi, was born near Limoges in what is now France and from his earliest years demonstrated exceptional skill as a goldsmith, leading his father to apprentice him under Abbo, master of the mint at Limoges, whose training and connections brought Eligius to the attention of King Clotaire II, for whom he crafted a magnificent golden throne adorned with precious stones, but in a gesture of honesty and mastery made not just one but two thrones from the provided materials, an act that earned him the king’s trust, the title of master of the mint in Marseilles, and a place in the royal court where he became chief counselor to King Dagobert I; despite his proximity to wealth and power, Eligius used his position to ransom captives of many nations from the slave markets, provide Christian burials for executed criminals, and found monasteries such as Solignac and a convent in Paris, which followed strict Irish monastic customs, while also commissioning the building of churches and caring for the poor, sick, and orphaned, his reputation for piety and fairness leading Queen Nanthild to encourage his ordination as a priest in 640, after which he fought against the corruption of simony and persuaded the monarchy to ban it entirely; in 642 he became Bishop of Noyon–Tournai and undertook extensive missionary work among the pagan tribes of Flanders, the North Sea coast, and beyond, traveling tirelessly to preach, baptize, and establish Christian communities, discovering and enshrining the relics of saints such as Quentin, Piatus, and Fursey, and overseeing the construction of churches to house these treasures; his humility and compassion were matched by his miraculous gifts, with one of the most beloved stories telling how he encountered a demon-possessed horse that resisted being shod, so he miraculously removed its foreleg, shod it, and reattached it perfectly, symbolizing his dominion over both the material and spiritual realms and reinforcing his patronage over metalworkers, blacksmiths, farriers, veterinarians, and horses; Eligius’s personal discipline was marked by fasting, prayer, almsgiving, and meticulous moral conduct, and he composed sermons warning against pagan practices, urging devotion to Christ, and preparing the faithful for the Last Judgment, alongside a pastoral letter to Bishop Desiderius of Cahors, all of which reveal his theological depth; his friend Audoin of Rouen, in the Vita Sancti Eligii, described him as a man gifted with the grace of tears and unwavering dedication to the faith, whose kindness to the poor was matched only by his boldness in confronting injustice; Eligius died on December 1, 660 in Noyon, surrounded by the clergy and faithful who revered him, and his relics were soon venerated throughout Europe, with his cult flourishing especially in Flanders, Ghent, Bruges, Antwerp, and Paris, where the Confraternity of Saint Éloi preserved his memory through guild traditions including artistic offerings each May; his influence spread into the devotional life of artisans and craftsmen, soldiers and veterinarians, and even modern institutions such as the Royal Electrical and Mechanical Engineers of the British Army claim him as their patron, reminding the world that sanctity is not reserved for cloistered monks or scholars but can also be lived out by those whose hands shape metal, care for animals, and use their skill to serve God and neighbor, making Saint Eligius a timeless example of integrity, faith, and service.",
+        "videoUrl": "https://www.youtube.com/watch?v=8O4btaAKhXs",
         "celebrationDate": "2025-12-01",
-        "imageUrl": ""
-    },
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Eligius_1515.jpg"
+    }, 
+
+,
     {
         "name": "Saint Bibiana",
         "story": "A Roman martyr.",
@@ -2730,5 +2732,6 @@
         "imageUrl": ""
     }
 ]
+
 
 
