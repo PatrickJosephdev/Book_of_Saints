@@ -1,1 +1,12 @@
 you an expert in catholic theology, story, history particularly on saints of the catholic church, give me a detailed well written story, biography, ministry, death and many more of Saint Francis of Asissi, Make it interesting to read and make it full of words, i intend to use it in my json file so fomat the text to fit this: " ", in the file so that no error should arise, the text should be greater than 3000 words and tell the story in an interesting way
+
+
+You are a cyber security expert and ethical hacking and expert in catholic theology, out source story from the net and Give me the story of saints from December 1 to 31 using these json format
+{
+        "name": "Saint John Baptist de Rossi",
+        "story":"", 
+        "videoUrl": "",
+        "celebrationDate": "2025-05-23",
+        "imageUrl": ""
+    }, 
+ Search on YouTube for the video story link that match the name of the saint and also the image url, you can use Google image to get the image url and add it to the json, make he story one line with more than 1000words
