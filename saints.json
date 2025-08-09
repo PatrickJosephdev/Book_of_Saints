@@ -2601,26 +2601,29 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Our_Lady_of_Guadalupe.jpg"
     }, 
     {
-        "name": "Saint Lucy",
-        "story": "A Christian martyr, known as the patron saint of sight.",
-        "videoUrl": "",
-        "celebrationDate": "2025-12-13",
-        "imageUrl": ""
-    },
+      "name": "Saint Lucy",
+      "story": "Saint Lucy (c. 283–304), a young Christian martyr from Syracuse, Sicily, is celebrated for her unwavering faith and courage in the face of persecution during the Diocletian era; born into a wealthy family, she vowed to dedicate her life to Christ and refused several marriage proposals, leading to her denunciation and torture under the Roman authorities who sought to force her to renounce her faith, enduring horrific trials including attempts to burn her alive and mutilation, yet miraculously preserved and steadfast in her devotion, she became a symbol of purity and light, often depicted with her eyes on a dish as a symbol of her martyrdom and spiritual vision, inspiring Christians through the centuries especially in Italy and Scandinavia where her feast on December 13 is marked by festivals of light, processions, and acts of charity, embodying hope and faith in darkness and remaining one of the most beloved saints in the Christian tradition.",
+      "videoUrl": "https://www.youtube.com/watch?v=Z4tV_4y6YXk",
+      "celebrationDate": "2025-12-13",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Saint_Lucy_by_Bernardino_Luini_-_Museo_del_Prado_-_Madrid_2011_01_08.jpg"
+    }, 
+
     {
-        "name": "Saint John of the Cross",
-        "story": "A Spanish Carmelite friar and mystic, Doctor of the Church.",
-        "videoUrl": "",
-        "celebrationDate": "2025-12-14",
-        "imageUrl": ""
-    },
+      "name": "Saint John of the Cross",
+      "story": "Saint John of the Cross (1542–1591), born Juan de Yepes y Álvarez in Spain, was a Carmelite friar, mystic, poet, and reformer whose profound spiritual writings have deeply influenced Christian mysticism and theology; entering the Carmelite order at a young age, he met Saint Teresa of Ávila and joined her efforts to reform the order, emphasizing austerity, contemplative prayer, and union with God through the 'dark night of the soul,' a spiritual journey marked by purification and deep surrender, enduring imprisonment and persecution from opponents within the Church due to his reformist zeal, yet producing masterpieces such as 'The Dark Night,' 'The Spiritual Canticle,' and 'The Living Flame of Love,' which eloquently describe the soul’s journey to divine union, his life a testament to faith, resilience, and poetic genius, canonized in 1726 and declared a Doctor of the Church, his feast day on December 14 invites believers to seek a deeper, transformative relationship with God, inspiring countless readers across centuries with his blend of mysticism, theology, and literary artistry.",
+      "videoUrl": "https://www.youtube.com/watch?v=OzFm5t-2N4Y",
+      "celebrationDate": "2025-12-14",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/El_cuadro_de_San_Juan_de_la_Cruz.jpg"
+    }, 
+
     {
-        "name": "Saint Valerie of Limoges",
-        "story": "A legendary Christian martyr.",
-        "videoUrl": "",
-        "celebrationDate": "2025-12-15",
-        "imageUrl": ""
-    },
+      "name": "Saint Valerian of Abbenza",
+      "story": "Saint Valerian of Abbenza, a 5th-century bishop in North Africa during the Vandal persecution, exemplified steadfast faith and courage in the face of intense religious oppression; serving as bishop in the city of Abbenza, he defended the orthodox Catholic faith against the Arian Vandals who ruled the region, refusing to renounce his beliefs despite imprisonment, torture, and exile, and ultimately suffering martyrdom for his unwavering commitment to Christ, his life a testament to the resilience of the early Church in North Africa, inspiring generations through his example of pastoral care, theological defense, and heroic endurance, with his feast day celebrated on December 15, honoring his witness and dedication to preserving the true faith amidst trials and persecution.",
+      "videoUrl": "https://www.youtube.com/watch?v=VYkLQFdtKiM",
+      "celebrationDate": "2025-12-15",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Saint_Valerian_Statue.jpg"
+    }, 
+
     {
         "name": "Saint Adelaide",
         "story": "Holy Roman Empress.",
@@ -2734,6 +2737,7 @@
         "imageUrl": ""
     }
 ]
+
 
 
 
